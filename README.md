@@ -1,2 +1,2 @@
-# rel-digital-html-css-javascript
+# html-css-javascript
 Projetos com HTML, CSS, JavaScript
