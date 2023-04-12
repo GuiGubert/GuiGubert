@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Gubert
 
-- 🧑‍💻 Estou em busca do meu primeiro emprego na área
+- 🧑‍💻 Estou em busca da minha primeira oportunidade na área
 - 🤓 Atualmente estou aprofundando meus conhecimentos em React 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de sistemas
 
