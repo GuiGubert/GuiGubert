@@ -20,6 +20,6 @@
 
 <h4>Redes Sociais:<h4>
 <div>
-  <a href="https://www.linkedin.com/in/guilherme-gubert" target="_blank"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/guilherme-gubert" target="blank"> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </div>
 
