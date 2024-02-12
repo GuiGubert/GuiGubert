@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Gubert
 
 - 🧑‍💻 Estou em busca da minha primeira oportunidade na área
-- 🤓 Atualmente estou aprofundando meus conhecimentos em React 
+- 🤓 Atualmente estou aprofundando meus conhecimentos em Javascript!
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGubert&hide_progress=false&theme=dark)](https://github.com/GuiGubert/github-readme-stats)
